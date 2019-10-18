@@ -3,6 +3,9 @@
     android:layout_width="200dp"
     android:layout_height="200dp">
 
+
+    <!--GirLayout-->
+
     <LinearLayout
         android:id="@+id/linearLayoutCard"
         android:layout_width="match_parent"
